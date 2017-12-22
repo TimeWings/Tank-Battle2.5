@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  barrier.cpp
+  TankBattle.cpp
+  tank.cpp
+  sound.cpp
+  base.cpp
+  player.cpp
+  builder.cpp
+  map.cpp
+  linklist.cpp
+  item.cpp
+  interfaces.cpp
+  enemy.cpp
+  effect.cpp
+  bullet.cpp
+  正在生成代码...
+  Tank Battle.vcxproj -> C:\Users\Asus\Desktop\Tank Battle2.5\Tank Battle\x64\Debug\Tank Battle.exe
+  Tank Battle.vcxproj -> C:\Users\Asus\Desktop\Tank Battle2.5\Tank Battle\x64\Debug\Tank Battle.pdb (Partial PDB)

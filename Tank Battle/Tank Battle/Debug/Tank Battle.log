@@ -1,0 +1,20 @@
+﻿  player.cpp
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\player.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\player.cpp(166): warning C4018: “<”: 有符号/无符号不匹配
+  enemy.cpp
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\enemy.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\enemy.cpp(150): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\enemy.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\enemy.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\desktop\tank battle2.5\tank battle\tank battle\enemy.cpp(450): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  map.cpp
+  item.cpp
+  interfaces.cpp
+  bullet.cpp
+  builder.cpp
+  barrier.cpp
+  TankBattle.cpp
+  Tank Battle.vcxproj -> C:\Users\Asus\Desktop\Tank Battle2.5\Tank Battle\Debug\Tank Battle.exe
+  Tank Battle.vcxproj -> C:\Users\Asus\Desktop\Tank Battle2.5\Tank Battle\Debug\Tank Battle.pdb (Partial PDB)
