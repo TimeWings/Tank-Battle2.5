@@ -22,7 +22,7 @@ linklist bulletlist;
 
 int main()
 {
-	initgraph(window_width, window_height);        // 绘图环境初始化
+	initgraph(window_width, window_height);       // 绘图环境初始化
 	interfaces::load_all_image();   //加载所有图片
 	sound::open_all_music();
 	sound::open_all_sound();
